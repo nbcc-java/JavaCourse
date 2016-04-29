@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Apr 27 22:28:06 CST 2016
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=MicrowaveOven.jar
+manifest.mergeall=true
+manifest.mainclass=cn.nbcc.chap10.snippets.MicrowaveOven
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=<inc|JavaCourse/src\\cn\\nbcc\\chap10>
